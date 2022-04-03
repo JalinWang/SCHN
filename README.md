@@ -1,6 +1,6 @@
 # Discriminative Visual Similarity Search with Semantically Cycle-consistent Hashing Networks
 Here is the official codebase for `Discriminative Visual Similarity Search with Semantically Cycle-consistent Hashing Networks`.
-This repo contains two versions of SCHN(the original SCHN and the one with the discriminator). You can choose one to run by modifying the `method_name` in `run.py`(just search in this file).
+This repo contains two versions of SCHN(the original SCHN and the one with the discriminator). You can specify the variant by the `method_name` constant in `run.py`(Line 18).
 
 ## REQUIREMENTS
 `requirements.txt` contains libraries used in my environments. Though other versions may also work, I have no time to test and can't guarantee any of that.
